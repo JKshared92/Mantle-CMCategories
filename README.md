@@ -27,3 +27,7 @@ comma, 506702341@qq.com
 ## License
 
 Mantle-CMCategories is available under the MIT license. See the LICENSE file for more info.
+
+## 介绍
+
+对Mantle第三方做的一些方便自己使用的扩展

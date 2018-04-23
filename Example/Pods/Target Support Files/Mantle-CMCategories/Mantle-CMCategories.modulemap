@@ -1,0 +1,6 @@
+framework module Mantle_CMCategories {
+  umbrella header "Mantle-CMCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

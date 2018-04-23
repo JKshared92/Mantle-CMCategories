@@ -1,0 +1,25 @@
+PODS:
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle-CMCategories (0.1.0):
+    - Mantle
+  - Mantle/extobjc (2.1.0)
+
+DEPENDENCIES:
+  - Mantle-CMCategories (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Mantle
+
+EXTERNAL SOURCES:
+  Mantle-CMCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  Mantle-CMCategories: c93e7f711c876e3f57150ba58d94758c2383f56b
+
+PODFILE CHECKSUM: f8e83bd72b9fba0c28092b375acf46b5ad82ac29
+
+COCOAPODS: 1.5.0

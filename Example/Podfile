@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Mantle-CMCategories_Example' do
+  pod 'Mantle-CMCategories', :path => '../'
+
+  target 'Mantle-CMCategories_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
